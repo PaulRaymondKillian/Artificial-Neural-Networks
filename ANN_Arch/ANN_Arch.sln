@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ANN_Arch", "ANN_Arch\ANN_Arch.vbproj", "{A5D20BB8-EFCA-49BE-BB46-9927C7D0EF58}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestHarness", "TestHarness\TestHarness.vbproj", "{6EE052A6-1806-4CD7-BCC9-629870851182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D20BB8-EFCA-49BE-BB46-9927C7D0EF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D20BB8-EFCA-49BE-BB46-9927C7D0EF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D20BB8-EFCA-49BE-BB46-9927C7D0EF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D20BB8-EFCA-49BE-BB46-9927C7D0EF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE052A6-1806-4CD7-BCC9-629870851182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE052A6-1806-4CD7-BCC9-629870851182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE052A6-1806-4CD7-BCC9-629870851182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE052A6-1806-4CD7-BCC9-629870851182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
